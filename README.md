@@ -3,11 +3,11 @@ balls
 ## table of contents
 1. goal  
 2. scan_videos.py documentation
-   3. what is scan_videos.py
-   4. thoughts on scan_videos.py
-   5. args for scan_videos.py in the terminal
-5. wars against the machine 
-   6. wars - scan_videos.py
+3. what is scan_videos.py
+4. thoughts on scan_videos.py
+5. args for scan_videos.py in the terminal
+6. wars against the machine 
+7. wars - scan_videos.py
 
 ## goal
 anytime I need to do a large amount of computer labor to manage files, like idk sims 4 mods or something i'll make a module here. a deep internet lurker might find it and it will be useful to them.  
